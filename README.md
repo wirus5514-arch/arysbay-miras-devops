@@ -1,4 +1,14 @@
-# Arysbay Miras DevOps Project
+## Development Branch
+
+This feature was developed by Miras Arysbay.
+
+The development branch is used for testing
+new changes before merging into main.## Development Branch
+
+This feature was developed by Miras Arysbay.
+
+The development branch is used for testing
+new changes before merging into main.# Arysbay Miras DevOps Project
 
 Student: Miras Arysbay
 
