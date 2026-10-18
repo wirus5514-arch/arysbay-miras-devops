@@ -1,0 +1,12 @@
+services:
+  app:
+    build: .
+    image: arysbay-miras-devops
+    container_name: arysbay-miras-container
+    ports:
+      - "8000:8000"
+    environment:
+      STUDENT_NAME: "Miras"
+      STUDENT_SURNAME: "Arysbay"
+      STUDENT_GROUP: "IT2-2308"
+      STUDENT_ID: "37011"
