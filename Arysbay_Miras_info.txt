@@ -1,0 +1,5 @@
+Name: Miras
+Surname: Arysbay
+Group: IT2-2308
+Student ID: 37011
+Course: DevOps
